@@ -1,0 +1,41 @@
+body {
+    background-color:lightsalmon;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+
+}
+
+.beef {
+    font-size: 40px;
+    text-align: center;
+    padding-bottom: 30%;
+}
+
+.slice {
+    font-size: 40px;
+    
+}
+
+img {
+   
+    width:  300px;
+    height: 300px;
+    object-fit: cover;
+    
+}
+
+.pie {
+    font-size: 40px;
+}
+
+div div{
+    padding-bottom: 300px;
+}
+.odin {
+    border-bottom: 1px solid black;
+
